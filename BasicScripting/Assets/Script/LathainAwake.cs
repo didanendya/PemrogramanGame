@@ -7,5 +7,6 @@ public class LathainAwake : MonoBehaviour
     void Awake()
     {
         Debug.Log("Panggil Awake");
+         Debug.Log("Panggil Awake");
     }
 }
